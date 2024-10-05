@@ -1,0 +1,27 @@
+[
+  {
+    "doc_name": "Dhido.txt",
+    "similarity": 0.11272313574540523,
+    "image_path": "/static/photos/Dhido.jpg"
+  },
+  {
+    "doc_name": "Juju Dhau (King Yogurt from Bhaktapur).txt",
+    "similarity": 0.0725873002202305,
+    "image_path": "/static/photos/Juju Dhau (King Yogurt from Bhaktapur).jpg"
+  },
+  {
+    "doc_name": "Thukpa (Nepali Noodle Soup).txt",
+    "similarity": 0.06185303695947734,
+    "image_path": "/static/photos/Thukpa (Nepali Noodle Soup).jpg"
+  },
+  {
+    "doc_name": "Dal Bhat (Lentils Rice).txt",
+    "similarity": 0.0617066181094324,
+    "image_path": "/static/photos/Dal Bhat (Lentils Rice).jpg"
+  },
+  {
+    "doc_name": "Chatpate (Spicy Puffed Rice Snack).txt",
+    "similarity": 0.029926441630188295,
+    "image_path": "/static/photos/Chatpate (Spicy Puffed Rice Snack).jpg"
+  }
+]
